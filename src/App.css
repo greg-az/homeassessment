@@ -12,6 +12,17 @@ body {
   margin: auto;
 }
 
+/* Search input */
+.search {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.5rem 0.75rem;
+  margin: 1rem 0;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
 /* Grid list */
 .item-list {
   display: grid;
